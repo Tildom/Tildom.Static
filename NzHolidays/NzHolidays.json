@@ -1,28 +1,178 @@
-{
-    "2023": [
-        {"Name": "New Year's Day", "ActualDate": "2023-01-01", "ObservedDate": "2023-01-03"},
-        {"Name": "Day after New Year's Day", "ActualDate": "2023-01-02", "ObservedDate": "2023-01-02"},
-        {"Name": "Waitangi Day", "ActualDate": "2023-02-06", "ObservedDate": "2023-02-06"},
-        {"Name": "Good Friday", "ActualDate": "2023-04-07", "ObservedDate": "2023-04-07"},
-        {"Name": "Easter Monday", "ActualDate": "2023-04-10", "ObservedDate": "2023-04-10"},
-        {"Name": "ANZAC Day", "ActualDate": "2023-04-25", "ObservedDate": "2023-04-25"},
-        {"Name": "King's Birthday", "ActualDate": "2023-06-05", "ObservedDate": "2023-06-05"},
-        {"Name": "Matariki", "ActualDate": "2023-07-14", "ObservedDate": "2023-07-14"},
-        {"Name": "Labour Day", "ActualDate": "2023-10-23", "ObservedDate": "2023-10-23"},
-        {"Name": "Christmas Day", "ActualDate": "2023-12-25", "ObservedDate": "2023-12-25"},
-        {"Name": "Boxing Day", "ActualDate": "2023-12-26", "ObservedDate": "2023-12-26"}
-    ],
-    "2024": [
-        {"Name": "New Year's Day", "ActualDate": "2024-01-01", "ObservedDate": "2024-01-01"},
-        {"Name": "Day after New Year's Day", "ActualDate": "2024-01-02", "ObservedDate": "2024-01-02"},
-        {"Name": "Waitangi Day", "ActualDate": "2024-02-06", "ObservedDate": "2024-02-06"},
-        {"Name": "Good Friday", "ActualDate": "2024-03-29", "ObservedDate": "2024-03-29"},
-        {"Name": "Easter Monday", "ActualDate": "2024-04-01", "ObservedDate": "2024-04-01"},
-        {"Name": "ANZAC Day", "ActualDate": "2024-04-25", "ObservedDate": "2024-04-25"},
-        {"Name": "King's Birthday", "ActualDate": "2024-06-03", "ObservedDate": "2024-06-03"},
-        {"Name": "Matariki", "ActualDate": "2024-06-28", "ObservedDate": "2024-06-28"},
-        {"Name": "Labour Day", "ActualDate": "2024-10-28", "ObservedDate": "2024-10-28"},
-        {"Name": "Christmas Day", "ActualDate": "2024-12-25", "ObservedDate": "2024-12-25"},
-        {"Name": "Boxing Day", "ActualDate": "2024-12-26", "ObservedDate": "2024-12-26"}
-    ]
-}
+[
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2023,
+        "Name": "New Year's Day",
+        "ActualDate": "2023-01-01",
+        "ObservedDate": "2023-01-03"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2023,
+        "Name": "Day after New Year's Day",
+        "ActualDate": "2023-01-02",
+        "ObservedDate": "2023-01-02"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2023,
+        "Name": "Waitangi Day",
+        "ActualDate": "2023-02-06",
+        "ObservedDate": "2023-02-06"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2023,
+        "Name": "Good Friday",
+        "ActualDate": "2023-04-07",
+        "ObservedDate": "2023-04-07"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2023,
+        "Name": "Easter Monday",
+        "ActualDate": "2023-04-10",
+        "ObservedDate": "2023-04-10"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2023,
+        "Name": "ANZAC Day",
+        "ActualDate": "2023-04-25",
+        "ObservedDate": "2023-04-25"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2023,
+        "Name": "King's Birthday",
+        "ActualDate": "2023-06-05",
+        "ObservedDate": "2023-06-05"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2023,
+        "Name": "Matariki",
+        "ActualDate": "2023-07-14",
+        "ObservedDate": "2023-07-14"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2023,
+        "Name": "Labour Day",
+        "ActualDate": "2023-10-23",
+        "ObservedDate": "2023-10-23"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2023,
+        "Name": "Christmas Day",
+        "ActualDate": "2023-12-25",
+        "ObservedDate": "2023-12-25"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2023,
+        "Name": "Boxing Day",
+        "ActualDate": "2023-12-26",
+        "ObservedDate": "2023-12-26"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2024,
+        "Name": "New Year's Day",
+        "ActualDate": "2024-01-01",
+        "ObservedDate": "2024-01-01"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2024,
+        "Name": "Day after New Year's Day",
+        "ActualDate": "2024-01-02",
+        "ObservedDate": "2024-01-02"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2024,
+        "Name": "Waitangi Day",
+        "ActualDate": "2024-02-06",
+        "ObservedDate": "2024-02-06"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2024,
+        "Name": "Good Friday",
+        "ActualDate": "2024-03-29",
+        "ObservedDate": "2024-03-29"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2024,
+        "Name": "Easter Monday",
+        "ActualDate": "2024-04-01",
+        "ObservedDate": "2024-04-01"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2024,
+        "Name": "ANZAC Day",
+        "ActualDate": "2024-04-25",
+        "ObservedDate": "2024-04-25"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2024,
+        "Name": "King's Birthday",
+        "ActualDate": "2024-06-03",
+        "ObservedDate": "2024-06-03"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2024,
+        "Name": "Matariki",
+        "ActualDate": "2024-06-28",
+        "ObservedDate": "2024-06-28"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2024,
+        "Name": "Labour Day",
+        "ActualDate": "2024-10-28",
+        "ObservedDate": "2024-10-28"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2024,
+        "Name": "Christmas Day",
+        "ActualDate": "2024-12-25",
+        "ObservedDate": "2024-12-25"
+    },
+    {
+        "Country": "NZ",
+        "Type": "Public Holiday",
+        "Year": 2024,
+        "Name": "Boxing Day",
+        "ActualDate": "2024-12-26",
+        "ObservedDate": "2024-12-26"
+    }
+]
