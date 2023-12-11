@@ -1,0 +1,112 @@
+[
+  {
+    "Name": "New Year's Day",
+    "ActualDate": "3 January",
+    "ObservedDate": "Tuesday 3 January"
+  },
+  {
+    "Name": "Day after New Year's Day",
+    "ActualDate": "2 January",
+    "ObservedDate": "Monday 2 January"
+  },
+  {
+    "Name": "Waitangi Day",
+    "ActualDate": "6 February",
+    "ObservedDate": "Monday 6 February"
+  },
+  {
+    "Name": "Good Friday",
+    "ActualDate": "7 April",
+    "ObservedDate": "Friday 7 April"
+  },
+  {
+    "Name": "Easter Monday",
+    "ActualDate": "10 April",
+    "ObservedDate": "Monday 10 April"
+  },
+  {
+    "Name": "ANZAC Day",
+    "ActualDate": "25 April",
+    "ObservedDate": "Tuesday 25 April"
+  },
+  {
+    "Name": "King's Birthday",
+    "ActualDate": "5 June",
+    "ObservedDate": "Monday 5 June"
+  },
+  {
+    "Name": "Matariki",
+    "ActualDate": "14 July",
+    "ObservedDate": "Friday 14 July"
+  },
+  {
+    "Name": "Labour Day",
+    "ActualDate": "23 October",
+    "ObservedDate": "Monday 23 October"
+  },
+  {
+    "Name": "Christmas Day",
+    "ActualDate": "25 December",
+    "ObservedDate": "Monday 25 December"
+  },
+  {
+    "Name": "Boxing Day",
+    "ActualDate": "26 December",
+    "ObservedDate": "Tuesday 26 December"
+  },
+  {
+    "Name": "New Year's Day",
+    "ActualDate": "1 January",
+    "ObservedDate": "Monday 1 January"
+  },
+  {
+    "Name": "Day after New Year's Day",
+    "ActualDate": "2 January",
+    "ObservedDate": "Tuesday 2 January"
+  },
+  {
+    "Name": "Waitangi Day",
+    "ActualDate": "6 February",
+    "ObservedDate": "Tuesday 6 February"
+  },
+  {
+    "Name": "Good Friday",
+    "ActualDate": "29 March",
+    "ObservedDate": "Friday 29 March"
+  },
+  {
+    "Name": "Easter Monday",
+    "ActualDate": "1 April",
+    "ObservedDate": "Monday 1 April"
+  },
+  {
+    "Name": "ANZAC Day",
+    "ActualDate": "25 April",
+    "ObservedDate": "Thursday 25 April"
+  },
+  {
+    "Name": "King's Birthday",
+    "ActualDate": "3 June",
+    "ObservedDate": "Monday 3 June"
+  },
+  {
+    "Name": "Matariki",
+    "ActualDate": "28 June",
+    "ObservedDate": "Friday 28 June"
+  },
+  {
+    "Name": "Labour Day",
+    "ActualDate": "28 October",
+    "ObservedDate": "Monday 28 October"
+  },
+  {
+    "Name": "Christmas Day",
+    "ActualDate": "25 December",
+    "ObservedDate": "Wednesday 25 December"
+  },
+  {
+    "Name": "Boxing Day",
+    "ActualDate": "26 December",
+    "ObservedDate": "Thursday 26 December"
+  }
+]
